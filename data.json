@@ -1,0 +1,127 @@
+[
+    {
+        "book_name": "Pride And Prejudice",
+        "category": "Classics",
+        "rent_per_day": 20
+    },
+
+    {
+        "book_name": "Lord Of The Flies",
+        "category": "Classics",
+        "rent_per_day": 20
+    },
+
+    {
+        "book_name": "The Shack: Where Tragedy Confronts Eternity",
+        "category": "Tragedy",
+        "rent_per_day": 10
+    },
+
+    {
+        "book_name": "Prince of Denmark",
+        "category": "Tragedy",
+        "rent_per_day": 10
+    },
+
+    {
+        "book_name": "The Midnight Library: A Novel",
+        "category": "Sci-Fi",
+        "rent_per_day": 30
+    },
+
+    {
+        "book_name": "Project Hail Mary",
+        "category": "Sci-Fi",
+        "rent_per_day": 30
+    },
+
+    {
+        "book_name": "Pride And Prejudice",
+        "category": "Classics",
+        "rent_per_day": 20
+    },
+
+    {
+        "book_name": "Pride And Prejudice",
+        "category": "Classics",
+        "rent_per_day": 20
+    },
+
+    {
+        "book_name": "The Alchemist",
+        "category": "Fantasy",
+        "rent_per_day": 30
+    },
+
+    {
+        "book_name": "Harry Potter",
+        "category": "Fantasy",
+        "rent_per_day": 30
+    },
+
+    {
+        "book_name": "Beneath a Scarlet Sky: A Novel",
+        "category": "Action And Adventure",
+        "rent_per_day": 40
+    },
+
+    {
+        "book_name": "The Sentinel: A Jack Reacher Novel",
+        "category": "Action And Adventure",
+        "rent_per_day": 40
+    },
+
+    {
+        "book_name": "The Silent Patient",
+        "category": "Mystery",
+        "rent_per_day": 40
+    },
+
+    {
+        "book_name": "Where the Crawdads Sing",
+        "category": "Mystery",
+        "rent_per_day": 40
+    },
+
+    {
+        "book_name": "It Ends with Us",
+        "category": "Romance",
+        "rent_per_day": 20
+    },
+
+    {
+        "book_name": "When We Believed in Mermaids",
+        "category": "Romance",
+        "rent_per_day": 20
+    },
+
+    {
+        "book_name": "Pride And Prejudice",
+        "category": "Classics",
+        "rent_per_day": 20
+    },
+
+    {
+        "book_name": "Animal Farm",
+        "category": "Humour And Satire",
+        "rent_per_day": 10
+    },
+
+    {
+        "book_name": "Born a Crime",
+        "category": "Humour And Satire",
+        "rent_per_day": 10
+    },
+
+    {
+        "book_name": "Dracula",
+        "category": "Horror",
+        "rent_per_day": 50
+    },
+
+    {
+        "book_name": "If It Bleeds",
+        "category": "Horror",
+        "rent_per_day": 50
+    }
+]

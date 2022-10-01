@@ -123,5 +123,11 @@
         "book_name": "If It Bleeds",
         "category": "Horror",
         "rent_per_day": 50
+    },
+
+    {
+        "book_name": "Arsalan",
+        "category": "Arsalan",
+        "rent_per_day": 1000
     }
 ]

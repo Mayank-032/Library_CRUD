@@ -39,6 +39,38 @@ app.get("/user", (req, res) => {
   res.redirect("/login");
 });
 
+{ SHELL: '/bin/bash',
+  SESSION_MANAGER:
+   'local/digitalocean:@/tmp/.ICE-unix/1003,unix/digitalocean:/tmp/.ICE-unix/1003',
+  COLORTERM: 'truecolor',
+  SSH_AUTH_SOCK: '/run/user/1000/keyring/ssh',
+  XMODIFIERS: '@im=ibus',
+  DESKTOP_SESSION: 'ubuntu',
+  SSH_AGENT_PID: '1150',
+  PWD: '/home/sammy/first-program',
+  LOGNAME: 'sammy',
+  GPG_AGENT_INFO: '/run/user/1000/gnupg/S.gpg-agent:0:1',
+  GJS_DEBUG_TOPICS: 'JS ERROR;JS LOG',
+  WINDOWPATH: '2',
+  HOME: '/home/sammy',
+  USERNAME: 'sammy',
+  IM_CONFIG_PHASE: '2',
+  LANG: 'en_US.UTF-8',
+  VTE_VERSION: '5601',
+  CLUTTER_IM_MODULE: 'xim',
+  GJS_DEBUG_OUTPUT: 'stderr',
+  LESSCLOSE: '/usr/bin/lesspipe %s %s',
+  TERM: 'xterm-256color',
+  LESSOPEN: '| /usr/bin/lesspipe %s',
+  USER: 'sammy',
+  DISPLAY: ':0',
+  SHLVL: '1',
+  PATH:
+   '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin',
+  DBUS_SESSION_BUS_ADDRESS: 'unix:path=/run/user/1000/bus',
+  _: '/usr/bin/node',
+  OLDPWD: '/home/sammy' }
+  
 // POST Request
 app.post("/Task1", (req, res) => {
   db.collection("books")
